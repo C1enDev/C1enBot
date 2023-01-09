@@ -66,7 +66,7 @@ C1enDev-QQ群 454102262
 <details>
   <summary>聊天</summary>
 
-  `import _ "github.com/FloatTech/ZeroBot-Plugin/plugin/chat"`
+  `import _ "github.com/C1enDev/C1enBot/plugin/chat"`
 
   - [x] [BOT名字]
 
@@ -84,7 +84,7 @@ C1enDev-QQ群 454102262
 <details>
   <summary>睡眠管理</summary>
 
-  `import _ "github.com/FloatTech/ZeroBot-Plugin/plugin/sleep_manage"`
+  `import _ "github.com/C1enDev/C1enBot/plugin/sleep_manage"`
 
   - [x] 早安 | 晚安
 
@@ -92,7 +92,7 @@ C1enDev-QQ群 454102262
 <details>
   <summary>ATRI</summary>
 
-  `import _ "github.com/FloatTech/ZeroBot-Plugin/plugin/atri"
+  `import _ "github.com/C1enDev/C1enBot/plugin/atri"
   `
   - [x] 具体指令看 /用法 atri
 
@@ -102,7 +102,7 @@ C1enDev-QQ群 454102262
 <details>
   <summary>群管</summary>
 
-  `import _ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager"`
+  `import _ "github.com/C1enDev/C1enBot/plugin/manager"`
 
   - [x] 禁言[@xxx][分钟]
 
@@ -174,7 +174,7 @@ C1enDev-QQ群 454102262
 <details>
   <summary>词典匹配回复</summary>
 
-  `import _ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus"`
+  `import _ "github.com/C1enDev/C1enBot/plugin/thesaurus"`
 
   - [x] 切换[kimo|傲娇|可爱]词库
   - [x] 设置词库触发概率0.x (0<x<9)
