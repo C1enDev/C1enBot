@@ -3,7 +3,7 @@
 rt
 License and copyright notice https://github.com/FloatTech/ZeroBot-Plugin 对部分插件进行二次修改及开发  
 项目依赖 golang  
-支持WS与Mirai,Go-CQHTTP,OICQ等交互
+支持WS与Mirai,Go-CQHTTP,OICQ等交互  
 C1enDev-QQ群 454102262  
   [![miraigo](https://img.shields.io/badge/OneBot-MiraiGo-green.svg?style=social&logo=appveyor)](https://github.com/Mrs4s/MiraiGo)
   [![oicq](https://img.shields.io/badge/OneBot-OICQ-green.svg?style=social&logo=appveyor)](https://github.com/takayama-lily/oicq)
