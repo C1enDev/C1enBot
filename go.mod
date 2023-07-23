@@ -34,7 +34,7 @@ require (
 	github.com/wcharczuk/go-chart/v2 v2.1.0
 	github.com/wdvxdr1123/ZeroBot v1.6.6
 	gitlab.com/gomidi/midi/v2 v2.0.25
-	golang.org/x/image v0.3.0
+	golang.org/x/image v0.5.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
@@ -80,7 +80,7 @@ require (
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
 	golang.org/x/net v0.0.0-20221014081412-f15817d10f9b // indirect
 	golang.org/x/sys v0.2.0 // indirect
-	golang.org/x/text v0.6.0 // indirect
+	golang.org/x/text v0.7.0 // indirect
 	golang.org/x/tools v0.1.12 // indirect
 	modernc.org/libc v1.21.5 // indirect
 	modernc.org/mathutil v1.5.0 // indirect
